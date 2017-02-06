@@ -1,9 +1,9 @@
-# raspi
-1. blink.py Benchtest Setup
+# raspi - Benchtest Setup
+1. blink.py 
 ![Alt text](https://github.com/cjhpdx/raspi/blob/master/blink.png)
 
+1. switch.py 
+![Alt text](https://github.com/cjhpdx/raspi/blob/master/switch.png)
 
-
-1. sudo python3 switch.py
-
-1. sudo python3 blinknswitch.py
+1. blinknswitch.py
+![Alt text](https://github.com/cjhpdx/raspi/blob/master/blinknswitch.png)
